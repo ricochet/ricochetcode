@@ -1,0 +1,20 @@
+title: ricochetcode.dev
+baseURL: /
+params:
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - new_window: true
+        text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+  header:
+    bg: dark
+    has_nav: true
+    has_social: true
+    profile_img: /images/smilebw.jpg
+    tagline: ''
+    title: About Me
+  layout_style: overflow
+  palette: blue
+disableKinds:
+  - RSS
